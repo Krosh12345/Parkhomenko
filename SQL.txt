@@ -1,0 +1,2 @@
+Задание 1
+SELECT last_name,name  FROM Students  WHERE "group"  = ("123") OR ("789")
